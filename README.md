@@ -2,7 +2,7 @@
 
 Simulate a game of connect four!
 
-![grid](./grid.png)
+![grid](./grid.PNG)
 
 A fun challenge that I wrote about [here](https://jist-blog.netlify.com/blog/connect-four).
 
